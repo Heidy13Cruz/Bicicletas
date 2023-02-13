@@ -7,11 +7,17 @@ span{
     padding-right: 2%;
 
 }
-
+h1{
+    padding-top: 2%;
+    padding-left: 5%;
+}
 .section_1{
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding-top: 3%;
+}
+.p-3{
+    margin-top: 5%;
 }
 
